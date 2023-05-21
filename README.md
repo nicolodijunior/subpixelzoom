@@ -20,7 +20,7 @@ Cada sub-pixel pode apenas estar ligado ou desligado, dessa forma será necessá
     
 Antes             |  Depois
 :-------------------------:|:-------------------------:
-![Antes](lena.ppm)  |  ![Depois](nicolodi.ppm)
+![Antes](lena.jpg)  |  ![Depois](nicolodi.jpg)
 
 
 ## Como ler o Projeto
